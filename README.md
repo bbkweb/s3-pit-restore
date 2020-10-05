@@ -1,3 +1,7 @@
+# WARNING: THIS PROJECT IS NO LONGER ACTIVELY MANAGED
+
+## This project is not maintained anymore. If you're interested in maintaining it please get in touch with @loade 
+
 # S3 point in time restore
 
 This is the repository for s3-pit-restore, a point in time restore tool
